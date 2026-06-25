@@ -1,1 +1,18 @@
 
+int 123age = 20 -> 
+double employee-salary = 25000;
+boolean class = true;
+char grade = 'A';
+
+correct code
+
+1.int age123 = 20;
+2.double employeeSalary = 25000;
+3.boolean isPassed = true;
+4.char grade = 'A';
+
+Explanation:
+1.Invalid because identifiers cannot start with a number.
+2.Invalid because hyphen (-) is treated as a minus operator.
+3.Invalid because class is a reserved keyword in Java.
+4.Valid identifier because it follows all identifier rules.
