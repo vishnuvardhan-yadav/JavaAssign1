@@ -1,1 +1,22 @@
 
+package com.datatTypes;
+
+public class Meaningfulidentifiers {
+	
+
+	public static void main(String[] args) {
+		
+		String stuName = "Vishnuvardhan yadav";
+		int stuAge = 22;
+		float per = 80.5f;
+		double empSalary = 100000.00;
+		boolean isPassed = true;
+		
+		
+		System.out.println(stuName);
+		System.out.println(stuAge);
+		System.out.println(per);
+		System.out.println(empSalary);
+		System.out.println(isPassed);
+
+	}
